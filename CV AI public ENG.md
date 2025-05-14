@@ -96,7 +96,7 @@ Achievements:
 
 • Instructor, "AI Product Manager" ([https://productuniversity.ru/aipro](https://productuniversity.ru/aipro)) and Lead Instructor "AI Programming" ([https://productuniversity.ru/cursor](https://productuniversity.ru/cursor)) courses, Product University (2023 – Present). Project examples: https://projects.aicoding.space/ 
 • Instructor, Data Engineer course, Netology (2023 – Present)  
-• Contributor to Yandex Practicum online courses on information security and machine learning  
+• Contributor to Yandex Practicum online courses on information security ([https://yandex.cloud/ru/training/network-security](https://yandex.cloud/ru/training/network-security)) and machine learning ([https://yandex.cloud/ru/training/ml](https://yandex.cloud/ru/training/ml))  
 • Speaker at numerous industry events and webinars on GenAI topics  
 • Produced educational content on RAG systems for online learning platforms
 
