@@ -92,17 +92,17 @@ _Cisco_
 
 **Преподавательская деятельность**
 
-- Преподаватель в Product University на курсе "Менеджер ИИ продуктов" ([https://productuniversity.ru/aipro](https://productuniversity.ru/aipro)
+- Ведущий курса "Менеджер ИИ-продуктов" в Product University ([https://productuniversity.ru/aipro](https://productuniversity.ru/aipro)
 - Ведущий курса по AI-программированию в Product University ([https://productuniversity.ru/cursor](https://productuniversity.ru/cursor)). Примеры проектов: https://projects.aicoding.space/ 
-- Участие в записи уроков по построению вопросно-ответных систем для онлайн-школы ([https://ai-school.me/](https://ai-school.me/))
-- Преподаватель в Нетологии на курсе "Дата-инженер" (блок по работе с облачными решениями)
+- Разработка уроков по построению вопросно-ответных систем для онлайн-школы ([https://ai-school.me/](https://ai-school.me/))
+- Преподавание на курсе "Дата-инженер" в Нетологии (блок по облачным решениям)
 - Участие в подготовке курсов Яндекс.Практикума по информационной безопасности ([https://yandex.cloud/ru/training/network-security](https://yandex.cloud/ru/training/network-security)) и машинному обучению ([https://yandex.cloud/ru/training/ml](https://yandex.cloud/ru/training/ml))
 
 ---
 
 **Публичные выступления и медиа**
 
-- Опыт выступлений на митапах и обучающих семинарах по тематике GenAI с 2023 года
+- Регулярные выступления на митапах и семинарах по тематике GenAI (с 2023 года)
 - Пример открытого семинара: [https://www.youtube.com/watch?v=Sw8nLvyf0oQ](https://www.youtube.com/watch?v=Sw8nLvyf0oQ)
 - Участие в подкасте ИТ борода по тематике SD-WAN: [https://www.youtube.com/watch?v=ukZyNkgqVho](https://www.youtube.com/watch?v=ukZyNkgqVho)
 - Участие в подкастах на сетевые темы linkmeup: [https://linkmeup.ru/podcasts/1927/](https://linkmeup.ru/podcasts/1927/), [https://linkmeup.ru/podcasts/1091/](https://linkmeup.ru/podcasts/1091/)
@@ -112,9 +112,9 @@ _Cisco_
 
 **Проекты
 
-- Участие в открытых проектах:
+- Участие в открытых инициативах:
     - [https://www.learn-agents.diy](https://www.learn-agents.diy) — открытый справочник по агентам
-    - [https://www.ai-cookbook.ru/](https://www.ai-cookbook.ru/) — открытый справочник по использованию opensource-приложений с языковыми моделями yandex 
+    - [https://www.ai-cookbook.ru/](https://www.ai-cookbook.ru/) — open-source-справочник по языковым моделям и приложениям Yandex
     - [https://vibecodingarena.fun](https://vibecodingarena.fun) — открытый справочник с примерами по Vibe Coding
 
 ---
