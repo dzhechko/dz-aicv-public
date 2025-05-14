@@ -109,7 +109,7 @@ Achievements:
 
 ---
 
-**Projects
+**Projects**
 
 • Contributor to open projects:
 - learn-agents.diy – open handbook on agents
