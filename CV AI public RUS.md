@@ -1,8 +1,7 @@
-# CV AI Public Russian
+**Дмитрий Жечков**
+Профессионал в области AI и облачных технологий | Генеративный искусственный интеллект | Архитектура облачных решений | Развитие и координация команд
 
-**Дмитрий Жечков**  
 Россия, Москва  
-Телефон: +7 985 7677293  
 Email: [jechkov.dmitriy@gmail.com](mailto:jechkov.dmitriy@gmail.com)  
 LinkedIn: [https://www.linkedin.com/in/dmitry-zhechkov-1037182/](https://www.linkedin.com/in/dmitry-zhechkov-1037182/)  
 Telegram: [https://t.me/llm_notes](https://t.me/llm_notes)

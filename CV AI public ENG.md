@@ -1,5 +1,3 @@
-CV AI public ENG
-
 **Dmitry Zhechkov**  
 AI & Cloud Solutions Executive | Generative AI | Cloud Architecture | Team Leadership
 
