@@ -2,8 +2,8 @@
 AI & Cloud Solutions Executive | Generative AI | Cloud Architecture | Team Leadership
 
 Moscow, Russia  
-[jechkov.dmitriy@gmail.com](mailto:jechkov.dmitriy@gmail.com)  
 linkedin.com/in/dmitry-zhechkov-1037182
+Telegram: [https://t.me/llm_notes](https://t.me/llm_notes)
 
 ---
 
